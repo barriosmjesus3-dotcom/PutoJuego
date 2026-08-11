@@ -1,0 +1,23 @@
+ANCHO_VENTANA = 800
+ALTO_VENTANA = 600
+
+ALTO_PERSONAJE = 20
+ANCHO_PERSONAJE = 20
+
+COLOR_BG = (0, 0, 20)
+COLOR_VIDA_LLENA = (0, 255, 0)
+COLOR_VIDA_VACIA = (255, 0, 0)
+COLOR_TEXTO = (255, 255, 255)
+
+FPS = 60
+VELOCIDAD = 5
+
+# Escalas de assets
+ESCALA_PERSONAJE = 1.0
+ESCALA_ENEMIGO = 1.0
+ESCALA_ARMA = 1.2
+ESCALA_BALA = 1.0
+
+# Configuración del disparo (Aumentamos CADENCIA_DISPARO para disparar más lento)
+VELOCIDAD_BALA = 12
+CADENCIA_DISPARO = 350  # En milisegundos (mayor valor = disparo más lento)
