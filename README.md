@@ -1,4 +1,4 @@
-# PutoJuego
+# Programacion Juego
 
 requisitos minimos
 
